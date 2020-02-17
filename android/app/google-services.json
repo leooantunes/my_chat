@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894569189899",
+    "firebase_url": "https://my-chat-41263.firebaseio.com",
+    "project_id": "my-chat-41263",
+    "storage_bucket": "my-chat-41263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894569189899:android:288a743e363311aec9ed0e",
+        "android_client_info": {
+          "package_name": "com.leooantunes.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894569189899-dgnhpggfl57om0gp0e87v64okcl8t6m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJn8PSbYoX2CcmoJzO9uxXPrUAZCAClUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894569189899-dgnhpggfl57om0gp0e87v64okcl8t6m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
